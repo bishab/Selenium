@@ -3,7 +3,7 @@
 Wait! Is that what we're gonna see in this code? 
 No! 
 
-<b>Welcome to the lines of code which lets you sit and see your facebook account being created, whatsapp being logged in(to some extent). 
+<b>Welcome to the line of code which lets you sit and see your facebook account being created, whatsapp being logged in(to some extent). 
 </b>
 
 ## Description:
